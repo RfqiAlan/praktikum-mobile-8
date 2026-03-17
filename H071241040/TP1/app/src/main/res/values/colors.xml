@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#FFDBDBDB</color>
+    <color name="medium_gray">#FF999999</color>
+    <color name="divider_gray">#FFE0E0E0</color>
+    <color name="background_white">#FFFFFFFF</color>
+    <color name="tab_active">#FF000000</color>
+    <color name="tab_inactive">#FF999999</color>
+    <color name="blue_link">#FF0095F6</color>
+</resources>

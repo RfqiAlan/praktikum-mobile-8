@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="username">rifqimaulana</string>
+    <string name="display_name">Rifqi Maulana</string>
+    <string name="bio">Student at Universitas Hasanuddin 📍 Makassar</string>
+    <string name="posts_count">12</string>
+    <string name="followers_count">340</string>
+    <string name="following_count">128</string>
+    <string name="label_posts">Posts</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_following">Following</string>
+    <string name="btn_edit_profile">Edit Profile</string>
+    <string name="btn_share_profile">Share Profile</string>
+    <string name="highlight_1">Highlight 1</string>
+    <string name="highlight_2">Highlight 2</string>
+    <string name="highlight_3">Highlight 3</string>
+
+    <!-- Edit Profile screen -->
+    <string name="edit_profile_title">Edit profile</string>
+    <string name="label_name">Name</string>
+    <string name="label_username">Username</string>
+    <string name="label_bio">Bio</string>
+    <string name="edit_picture_text">Edit picture or avatar</string>
+</resources>
