@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Library App</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_add_book">Add Book</string>
+
+    <string name="home_title">Semua Buku</string>
+    <string name="favorites_title">Buku Favorit</string>
+    <string name="search_book_hint">Cari buku berdasarkan judul</string>
+    <string name="empty_favorites">Belum ada buku yang di-like.</string>
+
+    <string name="add_book_title">Tambah Buku Baru</string>
+    <string name="pick_cover">Pilih Cover dari Galeri</string>
+    <string name="save_book">Simpan Buku</string>
+    <string name="label_title">Judul Buku</string>
+    <string name="label_author">Penulis</string>
+    <string name="label_year">Tahun Terbit</string>
+    <string name="label_genre">Genre</string>
+    <string name="label_rating">Rating (0 - 5)</string>
+    <string name="label_review">Review Singkat</string>
+    <string name="label_blurb">Blurb</string>
+    <string name="book_added">Buku berhasil ditambahkan.</string>
+
+    <string name="book_detail">Detail Buku</string>
+    <string name="like">Like</string>
+    <string name="unlike">Unlike</string>
+    <string name="book_meta">%1$d • %2$s</string>
+    <string name="book_rating">Rating %1$s</string>
+    <string name="liked_badge">Liked</string>
+    <string name="by_author">oleh %1$s</string>
+    <string name="detail_year">Tahun Terbit: %1$d</string>
+    <string name="detail_genre">Genre: %1$s</string>
+    <string name="detail_rating">Rating: %1$s/5</string>
+    <string name="detail_review">Review: %1$s</string>
+
+    <string name="error_required">Wajib diisi</string>
+    <string name="error_invalid_year">Tahun tidak valid</string>
+    <string name="error_invalid_rating">Rating tidak valid</string>
+    <string name="error_invalid_rating_range">Rating harus 0 sampai 5</string>
+    <string name="all_genres">Semua Genre</string>
+</resources>
